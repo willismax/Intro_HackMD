@@ -1,3 +1,10 @@
+---
+author: Willis Chen
+image: https://hackmd.io/_uploads/B1-u_uJZs.png
+GA: G-CH7FZ71WRC
+---
+
+
 # Day 01 : 小題大作的30個 HackMD 技巧-前言
 
 [![hackmd-github-sync-badge](https://hackmd.io/SZQ3POMHSNqys-S9u4mVRQ/badge)](https://hackmd.io/SZQ3POMHSNqys-S9u4mVRQ)
