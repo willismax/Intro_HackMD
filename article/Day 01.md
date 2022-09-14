@@ -1,5 +1,8 @@
 # Day 01 : 小題大作的30個 HackMD 技巧-前言
 
+[![hackmd-github-sync-badge](https://hackmd.io/SZQ3POMHSNqys-S9u4mVRQ/badge)](https://hackmd.io/SZQ3POMHSNqys-S9u4mVRQ)
+
+
 [![Yes](https://img.youtube.com/vi/GOP4G21aNIg/0.jpg)](https://www.youtube.com/watch?v=GOP4G21aNIg)
 
 大家好我是威利斯，這次鐵人賽帶來的分享是關於使用 HackMD 的小技巧，HackMD 已經是各大技術社群/論壇溝通基石，愛用者無數，但在小弟前陣子有幸分享了使用 HackMD 的諸多方式，讓更多人認識 HackMD 的妙用之外，也深入挖掘了許多一般使用者不會觸及的妙用，不藏私分享讓各位後續使用 HackMD 更能得心應手。
