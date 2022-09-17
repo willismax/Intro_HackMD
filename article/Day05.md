@@ -4,6 +4,9 @@ image: https://hackmd.io/_uploads/B1-u_uJZs.png
 GA: G-CH7FZ71WRC
 ---
 
+[![hackmd-github-sync-badge](https://hackmd.io/U4CzpF4FT1i9CoWSVFkCKg/badge)](https://hackmd.io/U4CzpF4FT1i9CoWSVFkCKg)
+
+
 [![Yes](https://img.youtube.com/vi/R72kNVUZdpg/0.jpg)](https://www.youtube.com/watch?v=R72kNVUZdpg)
 
 
