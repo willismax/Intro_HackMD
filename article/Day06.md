@@ -4,7 +4,10 @@ image: https://hackmd.io/_uploads/B1-u_uJZs.png
 GA: G-CH7FZ71WRC
 ---
 
-# Day 06 : HackMD的簡報模式
+# Day 06 : HackMD 的簡報模式
+
+[![hackmd-github-sync-badge](https://hackmd.io/nx6vw5mDSMKMBD4ZZ1ILHQ/badge)](https://hackmd.io/nx6vw5mDSMKMBD4ZZ1ILHQ)
+
 
 [![Yes](https://img.youtube.com/vi/edLu-B7hPNA/0.jpg)](https://www.youtube.com/watch?v=edLu-B7hPNA)
 
@@ -101,7 +104,13 @@ type: slide
     "睡覺" : 30
     "打咚咚" : 60
     ```
+    
 
-以上會因為各種服務更新而有不同，為個人感受供參考。
+    ![](https://hackmd.io/_uploads/B1gzITVZs.png)
+
+
 勇於挑戰影片介紹著實不易，如有口誤及用詞不當得罪之處還請海涵
 ![/images/emoticon/emoticon16.gif](/images/emoticon/emoticon16.gif)
+
+
+
