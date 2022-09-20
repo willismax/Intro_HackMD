@@ -6,6 +6,9 @@ GA: G-CH7FZ71WRC
 
 # Day 08 : HackMD 與共筆協作
 
+[![hackmd-github-sync-badge](https://hackmd.io/fRgnnCbsRwyzRCgZX_0lyQ/badge)](https://hackmd.io/fRgnnCbsRwyzRCgZX_0lyQ)
+
+
 
 ## 共筆 
 - 多人一起筆記
