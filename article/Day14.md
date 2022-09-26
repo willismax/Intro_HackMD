@@ -4,7 +4,10 @@ image: https://hackmd.io/_uploads/B1-u_uJZs.png
 GA: G-CH7FZ71WRC
 ---
 
-# Day 14. HackMD 設定 GA 沒什麼困難的
+# Day 14. HackMD 佐 Google Analytics (GA)  沒什麼困難的
+
+[![hackmd-github-sync-badge](https://hackmd.io/PsDlkiW8R526L38gMn4ubQ/badge)](https://hackmd.io/PsDlkiW8R526L38gMn4ubQ)
+
 
 [![Yes](https://img.youtube.com/vi/IpgkQR9OXgg/0.jpg)](https://www.youtube.com/watch?v=IpgkQR9OXgg)
 
@@ -28,4 +31,4 @@ GA: G-CH7FZ71WRC
 
 - 包起來就可以追蹤了，可以幫助您更了解HackMD文章的閱覽行為與使用情形，更多的運用您可以搜尋GA的相關教學。
 
-在HackMD設定GA遠比自己網頁嵌入追蹤碼簡單，不妨大方地運用吧!
+在HackMD設定GA遠比自己網頁嵌入追蹤碼簡單，不妨大膽地運用吧!![/images/emoticon/emoticon12.gif](/images/emoticon/emoticon12.gif)
