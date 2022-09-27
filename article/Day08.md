@@ -8,7 +8,9 @@ GA: G-CH7FZ71WRC
 
 [![hackmd-github-sync-badge](https://hackmd.io/fRgnnCbsRwyzRCgZX_0lyQ/badge)](https://hackmd.io/fRgnnCbsRwyzRCgZX_0lyQ)
 
+[![Yes](https://img.youtube.com/vi/HZmDFsz0wko/0.jpg)](https://www.youtube.com/watch?v=HZmDFsz0wko)
 
+- 今日簡報[Day 08 : HackMD 與共筆協作-簡報](https://hackmd.io/@wiimax/intro-hackmd-08)
 
 ## 共筆 
 - 多人一起筆記
@@ -17,7 +19,7 @@ GA: G-CH7FZ71WRC
 
 
 ## 共筆所需的功能
-- 在右上方的分享介面
+- 在右上方的分享介面  
     ![](https://hackmd.io/_uploads/rJmBeM53q.png)
 
 - 可更改分享連結客製化
@@ -45,6 +47,8 @@ GA: G-CH7FZ71WRC
 3. 在開頭的YAML欄位設定disqus: {申請的帳號}，例如`disqus: willismax`，就有如同部落格的留言區了
 4. 也有透過嵌入 [Slido](https://www.slido.com/) 讓使用者留言與講者互動
     ![](https://hackmd.io/_uploads/SysRP6Ebs.png)
+
+> 提供[今日簡報](https://hackmd.io/@wiimax/intro-hackmd-08)，以及至今已公開的[所有簡報](https://hackmd.io/@wiimax/intro-hackmd-slides)，供您一次瀏覽!
 
 
 勇於挑戰影片介紹著實不易，如有口誤及用詞不當得罪之處還請海涵
