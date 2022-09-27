@@ -5,26 +5,25 @@ GA: G-CH7FZ71WRC
 ---
 
 # Day 13 : HackMD 佐 FontAwsome V4 讓文件更美
+[![hackmd-github-sync-badge](https://hackmd.io/M68sRTJlRduigzCkMb94KQ/badge)](https://hackmd.io/M68sRTJlRduigzCkMb94KQ)
 
 [![Yes](https://img.youtube.com/vi/0KCJfnhtMaU/0.jpg)](https://www.youtube.com/watch?v=0KCJfnhtMaU)
 
 
-為了讓文件更活潑，您經常會使用圖片、表情符號等方式美化文件，HackMD支援使用emoji、FontAwsome，需要注意的事情也一併說明。
+- 為了讓文件更活潑，您經常會使用圖片、表情符號等方式美化文件，HackMD支援使用emoji、FontAwsome，需要注意的事情也一併說明。
+
+- 今日簡報[Day 13 : HackMD 佐 FontAwsome V4 讓文件更美-簡報](https://hackmd.io/@wiimax/intro-hackmd-13)
 
 ## 使用emoji
 
 - 可以用的Emoji列表 https://github.com/ikatyang/emoji-cheat-sheet
 - 編輯時用冒號`:`開頭，會有選項，最後也是冒號`:`結尾，像是`:mask: `:mask:
 - 可以透過大標、次標的版型調整emoji大小。 
-
-# :mask:
-## :mask: 
-:mask:
-```
-# :mask:
-## :mask: 
-:mask:
-```
+    ```
+    # :mask:
+    ## :mask: 
+    :mask:
+    ```
 
 
 ## 可以使用 FontAwsome
@@ -32,16 +31,8 @@ GA: G-CH7FZ71WRC
 - https://fontawesome.com/v4/icons/
 - 搜尋想要的icon，複製該html語法，直接貼上至編輯區即可。
 - 也可以像編輯網頁，比照文件屬性調整大小、顏色等，相當好用。
-
-# <i class="fa fa-book" aria-hidden="true"></i>
-## <i class="fa fa-book" aria-hidden="true"></i>
-```
-# <i class="fa fa-book" aria-hidden="true"></i>
-## <i class="fa fa-book" aria-hidden="true"></i>
-```
 - 簡報開頭的獎盃也是來自 FontAwsome!
-    # <font color="#FFD700"><i class="fa fa-trophy" aria-hidden="true"></i></font>
-    ```htmlembedded
+    ```
     <font color="#FFD700">
       <i class="fa fa-trophy" aria-hidden="true"></i>
     </font>
@@ -51,13 +42,12 @@ GA: G-CH7FZ71WRC
 - [CSS Colors](https://www.w3schools.com/cssref/css_colors.asp)
  by w3schools.com
 - 選自己喜歡的配色。
-
-<font color="#FFD700">Hello</font><font color="A52A2A">World</font>
-
-```
-<font color="#FFD700">Hello</font>
-<font color="A52A2A">World</font>
-```
+    ```
+    <font color="#FFD700">Hello</font>
+    <font color="A52A2A">World</font>
+    ```
 
 歡迎在自行嘗試，讓簡報更生動。![/images/emoticon/emoticon41.gif](/images/emoticon/emoticon41.gif)
 
+
+> 提供[今日簡報](https://hackmd.io/@wiimax/intro-hackmd-13)，以及至今已公開的[所有簡報](https://hackmd.io/@wiimax/intro-hackmd-slides)，供您一次瀏覽!
