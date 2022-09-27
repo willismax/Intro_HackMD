@@ -6,7 +6,11 @@ GA: G-CH7FZ71WRC
 
 # Day 02 : HackMD 的前世今生
 
+[![hackmd-github-sync-badge](https://hackmd.io/Q-b7CaiRQ5KG80_vSVRE8w/badge)](https://hackmd.io/Q-b7CaiRQ5KG80_vSVRE8w)
+
+
 [![Yes](https://img.youtube.com/vi/eo3mgwIvasY/0.jpg)](https://www.youtube.com/watch?v=eo3mgwIvasY)
+
 
 ## HackMD 緣起
 - 經考古 HackMD 為 CTO 吳承翰 2014年學生時期(北科碩)的資安作業
@@ -30,6 +34,10 @@ GA: G-CH7FZ71WRC
 
 ### [CTO 吳承翰 2016 MOPCON分享](https://hackmd.io/@MaxWu/HackMD-MOPCON2016?type=view)
 ![](https://hackmd.io/_uploads/ByxIEvPTq.png)
+
+
+> 提供[今日簡報](https://hackmd.io/@wiimax/intro-hackmd-02)，以及至今已公開的[所有簡報](https://hackmd.io/@wiimax/intro-hackmd-slides)，供您一次瀏覽!
+
 
 勇於挑戰影片介紹著實不易，如有口誤及用詞不當得罪之處還請海涵
 ![/images/emoticon/emoticon16.gif](/images/emoticon/emoticon16.gif)
