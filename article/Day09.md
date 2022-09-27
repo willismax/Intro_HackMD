@@ -10,6 +10,8 @@ GA: G-CH7FZ71WRC
 
 [![Yes](https://img.youtube.com/vi/3VOWWE70zQU/0.jpg)](https://www.youtube.com/watch?v=3VOWWE70zQU)
 
+- 今日簡報[Day 09 : HackMD 書本+簡報共舞-簡報](https://hackmd.io/@wiimax/intro-hackmd-09)
+
 ## [書本+簡報 DEMO](https://hackmd.io/qoM6Z2hqQcqaqxgWEMUrhg)
 
 ## 建立流程
@@ -37,6 +39,11 @@ GA: G-CH7FZ71WRC
 ## 將剪報模式以PDF列印
 在簡報將頁面下拉點選列印按鈕即可列印，或另存為PDF檔。
 ![](https://hackmd.io/_uploads/SyFg1nS-j.png)
+
+
+> 提供[今日簡報](https://hackmd.io/@wiimax/intro-hackmd-09)，以及至今已公開的[所有簡報](https://hackmd.io/@wiimax/intro-hackmd-slides)，供您一次瀏覽!
+
+
 
 勇於挑戰影片介紹著實不易，如有口誤及用詞不當得罪之處還請海涵
 ![/images/emoticon/emoticon16.gif](/images/emoticon/emoticon16.gif)
