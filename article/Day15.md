@@ -6,6 +6,9 @@ GA: G-CH7FZ71WRC
 
 # Day 15 : HackMD 簡報 YAML 設定
 
+[![hackmd-github-sync-badge](https://hackmd.io/WWDc_K0mSKGk6cKkRaEBig/badge)](https://hackmd.io/WWDc_K0mSKGk6cKkRaEBig)
+
+
 [![Yes](https://img.youtube.com/vi/T4m8xRQ46WQ/0.jpg)](https://www.youtube.com/watch?v=T4m8xRQ46WQ)
 
 
