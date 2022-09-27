@@ -1,6 +1,11 @@
 # Day 12 : HackMD 的表格與簡報排版
 
+[![hackmd-github-sync-badge](https://hackmd.io/ikV-nJq_Th62oubjcIXOYg/badge)](https://hackmd.io/ikV-nJq_Th62oubjcIXOYg)
+
+
 [![Yes](https://img.youtube.com/vi/TFdmINXOGEg/0.jpg)](https://www.youtube.com/watch?v=TFdmINXOGEg)
+
+- 今日簡報[Day 12 : HackMD 的表格與簡報排版-簡報](https://hackmd.io/@wiimax/intro-hackmd-12)
 
 ## 表格在簡報排版妙用
 - MarkDown的表格不如簡報軟體靈活，但在簡報排版有auto-scale的效果。
@@ -20,7 +25,7 @@
 
 ### 4張表格化的圖檔
 - ![](https://hackmd.io/_uploads/HJFO0nuWo.png)
-- 同一行有4章也可以。
+- 同一行有4張也可以。
 
 
 
@@ -50,3 +55,5 @@
 
 歡迎在自行嘗試，讓簡報更生動。
 勇於挑戰影片介紹著實不易，如有口誤及用詞不當得罪之處還請海涵![/images/emoticon/emoticon29.gif](/images/emoticon/emoticon29.gif) 
+
+> 提供[今日簡報](https://hackmd.io/@wiimax/intro-hackmd-12)，以及至今已公開的[所有簡報](https://hackmd.io/@wiimax/intro-hackmd-slides)，供您一次瀏覽!
