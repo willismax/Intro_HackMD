@@ -11,6 +11,8 @@ GA: G-CH7FZ71WRC
 
 [![Yes](https://img.youtube.com/vi/edLu-B7hPNA/0.jpg)](https://www.youtube.com/watch?v=edLu-B7hPNA)
 
+今日簡報[Day 06 : HackMD 的簡報模式](https://hackmd.io/@wiimax/intro-hackmd-06)
+
 ## 分享為簡報模式
 點選右上方選擇簡報模式，即可透過網址分享簡報。
 ![](https://hackmd.io/_uploads/SySgC07aq.png)
@@ -107,6 +109,8 @@ type: slide
     
 
     ![](https://hackmd.io/_uploads/B1gzITVZs.png)
+
+> 提供[今日簡報](https://hackmd.io/@wiimax/intro-hackmd-06)，以及至今已公開的[所有簡報](https://hackmd.io/@wiimax/intro-hackmd-slides)，供您一次瀏覽!
 
 
 勇於挑戰影片介紹著實不易，如有口誤及用詞不當得罪之處還請海涵
