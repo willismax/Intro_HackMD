@@ -3,14 +3,15 @@ author: Willis Chen
 image: https://hackmd.io/_uploads/B1-u_uJZs.png
 GA: G-CH7FZ71WRC
 ---
+# Day 05 : HackMD 與 MarkDown
 
 [![hackmd-github-sync-badge](https://hackmd.io/U4CzpF4FT1i9CoWSVFkCKg/badge)](https://hackmd.io/U4CzpF4FT1i9CoWSVFkCKg)
 
 
 [![Yes](https://img.youtube.com/vi/R72kNVUZdpg/0.jpg)](https://www.youtube.com/watch?v=R72kNVUZdpg)
 
+今日簡報[Day 05 : HackMD 與 MarkDown-簡報](https://hackmd.io/@wiimax/intro-hackmd-05)
 
-# Day 05 : HackMD 與 MarkDown
 
 ## MarkDown前世今生
 |![](https://i.imgur.com/K5IWBck.png)|![](https://i.imgur.com/hZ7kjYa.png)
@@ -156,22 +157,17 @@ I get 10 times more traffic from [Google][] than from
 - 兩個變粗體，如**強調**、__強調__
 
 ## 圖片
-`![Alt text](/path/to/img.jpg "Optional title")`
-
+- 以下在HackMD可以正常顯示
+- 主要語法: `![Alt text](/path/to/img.jpg "Optional title")`
 - 一般使用`![文字](連結)`即可使用
-- 在HackMD貼上圖片，即在圖床上傳產生連結並顯示
+- 在HackMD「貼上圖片」，HackMD會上傳至雲端圖床(免費版為imgure，付費版為AWS S3)，HackMD會自動生成圖片連結並顯示
 
   ![](https://i.imgur.com/rtaQxYP.png)
-`![](https://i.imgur.com/rtaQxYP.png)
-`
+`![](https://i.imgur.com/rtaQxYP.png)`
 
-- 有調整尺寸的圖片
+- 調整圖片尺寸，可以在連結後後方加上像素，以下示範限制圖片大小為450像素
   ![](https://i.imgur.com/rtaQxYP.png =450x)
-`![](https://i.imgur.com/rtaQxYP.png =450x)`
-
-- 有調整尺寸、加上文字說明的圖片
-![沒有圖的話會出現的文字](https://i.imgur.com/rtaQxYP.png "滑鼠游標在上方會顯示的提示文字" =450x)
-`![如沒有圖的話會出現的文字](https://i.imgur.com/rtaQxYP.png =450x '如滑鼠游標在上方會顯示的提示文字')`
+  `![](https://i.imgur.com/rtaQxYP.png =450x)`
 
 
 
@@ -217,7 +213,9 @@ $\sum_{i=1}^{n}(w_ix_i+b)$
 - 饒過你排版的心思，專注在書寫上
 - HackMD 共筆的重要功能，你得到他了!
 
+> 提供[今日簡報](https://hackmd.io/@wiimax/intro-hackmd-05)，以及至今已公開的[所有簡報](https://hackmd.io/@wiimax/intro-hackmd-slides)，供您一次瀏覽!
+
 
 以上會因為各種服務更新而有不同，為個人感受供參考。
-勇於挑戰影片介紹著實不易，如有口誤及用詞不當得罪之處還請海涵
+如有口誤及用詞不當得罪之處還請海涵
 ![/images/emoticon/emoticon16.gif](/images/emoticon/emoticon16.gif)
