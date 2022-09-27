@@ -6,7 +6,12 @@ GA: G-CH7FZ71WRC
 
 # Day 07 : HackMD 的書本模式
 
+[![hackmd-github-sync-badge](https://hackmd.io/xQvsgeSmTXyf8Z7_xmCrdA/badge)](https://hackmd.io/xQvsgeSmTXyf8Z7_xmCrdA)
+
+
 [![Yes](https://img.youtube.com/vi/RclQCLMmCGY/0.jpg)](https://www.youtube.com/watch?v=RclQCLMmCGY)
+
+今日簡報[Day 07 : HackMD 的書本模式-簡報](https://hackmd.io/@wiimax/intro-hackmd-07)
 
 ## 用筆記錄下來，作為第二大腦  
 - 人腦需要輔助，很難紀錄太多
@@ -43,6 +48,8 @@ GA: G-CH7FZ71WRC
 
 ## Just Do it
 - 製作自己的知識庫，並且增加內頁吧!
+
+> 提供[今日簡報](https://hackmd.io/@wiimax/intro-hackmd-07)，以及至今已公開的[所有簡報](https://hackmd.io/@wiimax/intro-hackmd-slides)，供您一次瀏覽!
 
 
 勇於挑戰影片介紹著實不易，如有口誤及用詞不當得罪之處還請海涵
