@@ -12,6 +12,7 @@ GA: G-CH7FZ71WRC
 
 [![Yes](https://img.youtube.com/vi/GOP4G21aNIg/0.jpg)](https://www.youtube.com/watch?v=GOP4G21aNIg)
 
+
 大家好我是威利斯，這次鐵人賽帶來的分享是關於使用 HackMD 的小技巧，HackMD 已經是各大技術社群/論壇溝通基石，愛用者無數，但在小弟前陣子有幸分享了使用 HackMD 的諸多方式，讓更多人認識 HackMD 的妙用之外，也深入挖掘了許多一般使用者不會觸及的妙用，不藏私分享讓各位後續使用 HackMD 更能得心應手。
 
 本次預計主題採分級制，區分主題為:
@@ -51,6 +52,10 @@ GA: G-CH7FZ71WRC
     - HackMD 改 CSS 與套用範本整理
     - HackMD 自製範本
     - 結語
+
+> 提供[今日簡報](https://hackmd.io/@wiimax/intro-hackmd-01)，以及至今已公開的[所有簡報](https://hackmd.io/@wiimax/intro-hackmd-slides)，供您一次瀏覽。
+
+
 
 勇於挑戰影片介紹著實不易，如有口誤及用詞不當還請海涵
 ![/images/emoticon/emoticon16.gif](/images/emoticon/emoticon16.gif)
