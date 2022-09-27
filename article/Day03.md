@@ -6,8 +6,12 @@ GA: G-CH7FZ71WRC
 
 # Day 03 : HackMD 的編輯介面介紹
 
+[![hackmd-github-sync-badge](https://hackmd.io/E9Tr-4LcRzyFnP9seRFr2Q/badge)](https://hackmd.io/E9Tr-4LcRzyFnP9seRFr2Q)
+
+
 
 [![Yes](https://img.youtube.com/vi/p2InkqMqQYY/0.jpg)](https://www.youtube.com/watch?v=p2InkqMqQYY)
+
 
 ### 編輯區-左上方
 - 分別有「編輯 / 雙欄 / 預覽」等3種顯示方式。
@@ -50,6 +54,9 @@ GA: G-CH7FZ71WRC
 ### 編輯區-左下方-智慧工具
 - 有各種小功能幫助使用。
   ![](https://hackmd.io/_uploads/Bk4WQwv65.png)
+
+
+> 提供[今日簡報](https://hackmd.io/@wiimax/intro-hackmd-03)，以及至今已公開的[所有簡報](https://hackmd.io/@wiimax/intro-hackmd-slides)，供您一次瀏覽!
 
 勇於挑戰影片介紹著實不易，如有口誤及用詞不當得罪之處還請海涵
 ![/images/emoticon/emoticon16.gif](/images/emoticon/emoticon16.gif)
