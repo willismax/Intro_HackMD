@@ -6,11 +6,14 @@ GA: G-CH7FZ71WRC
 
 # Day 16 : HackMD 簡報客製動畫設定
 
+[![hackmd-github-sync-badge](https://hackmd.io/ht1jYfi-T_6XSOQJazruKw/badge)](https://hackmd.io/ht1jYfi-T_6XSOQJazruKw)
+
+
 
 [![Yes](https://img.youtube.com/vi/oZcSrHm7QZA/0.jpg)](https://www.youtube.com/watch?v=oZcSrHm7QZA)
 
 - 本篇分享讓您HackMD製作簡報更有彈性的動畫設定，包含依序出現的要點、圖片輪播功能，並且提醒您該注意的小細節。
-- 今日簡報[Day 16 : HackMD 簡報客製動畫設定-簡報](https://hackmd.io/@wiimax/intro-hackmd-16)
+- 今日簡報[Day 16 : HackMD 簡報客製動畫設定-簡報](https://hackmd.io/@wiimax/intro-hackmd-16)。
 
 ## 順續出現的動畫
 - 使用`<!-- .element: class="fragment" data-fragment-index="1" -->`語法，就可以指定該行文字撥放的順序為1，如果要改順序，在`data-fragment-index="1"`的數字處更改。
