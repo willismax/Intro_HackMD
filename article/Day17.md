@@ -9,7 +9,7 @@ GA: G-CH7FZ71WRC
 [![Yes](https://img.youtube.com/vi/GYZH8LB_ees/0.jpg)](https://www.youtube.com/watch?v=GYZH8LB_ees)
 
 - HackMD簡潔的簡報功能已經非常實用，今天要分享的是客製化背景，背景可以是另一種顏色、漸層、圖檔、動畫、影片，甚至是iframe，真的很扯，迫不及待分享給您。
-- 今日簡報[Day 17 : HackMD 簡報客製背景設定-簡報](https://hackmd.io/@wiimax/intro-hackmd-17)
+- 今日簡報[Day 17 : HackMD 簡報客製背景設定-簡報](https://hackmd.io/@wiimax/intro-hackmd-17)，請搭配使用觀看動態效果。
 
 
 ## 設定單頁簡報背景  
