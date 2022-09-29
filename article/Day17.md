@@ -6,6 +6,9 @@ GA: G-CH7FZ71WRC
 
 # Day 17 : 炫炮的 HackMD 簡報客製背景設定
 
+[![hackmd-github-sync-badge](https://hackmd.io/hu8kWLv5SeGSTfVRqx29UA/badge)](https://hackmd.io/hu8kWLv5SeGSTfVRqx29UA)
+
+
 [![Yes](https://img.youtube.com/vi/GYZH8LB_ees/0.jpg)](https://www.youtube.com/watch?v=GYZH8LB_ees)
 
 - HackMD簡潔的簡報功能已經非常實用，今天要分享的是客製化背景，背景可以是另一種顏色、漸層、圖檔、動畫、影片，甚至是iframe，真的很扯，迫不及待分享給您。
