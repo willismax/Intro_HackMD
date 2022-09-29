@@ -38,7 +38,7 @@ GA: G-CH7FZ71WRC
 ## 設定影片當背景
 - 在`<!-- .slide: -->`之中以`data-background-video`參數，提供`.mp4`的連結，就可以當作滿版的影片撥放，並且可以重複撥放的`data-background-video-loop`參數，以及靜音的`data-background-video-muted`參數，讓簡報更生動吸睛。
 - 在範例影片中的前景仍可以寫文案，HackMD的`:::warning :::`語法也有支援，形成了一個文字底圖~
-- 因為`.mp4`網址不好找，直接引用Revealjs的簡報背景影片如下。
+- 因為`.mp4`網址不好找，直接引用Revealjs的簡報背景影片如下(後續會使用Google雲端硬碟的解法，再請拭目以待)。
     ![](https://hackmd.io/_uploads/HyBwGyyzj.png)
 
     ```
