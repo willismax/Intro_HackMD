@@ -6,6 +6,9 @@ GA: G-CH7FZ71WRC
 
 # Day 18 : HackMD 翻譯對照，我的超人
 
+[![hackmd-github-sync-badge](https://hackmd.io/xY5wWEGcRnekxxhcQWXu4A/badge)](https://hackmd.io/xY5wWEGcRnekxxhcQWXu4A)
+
+
 
 [![Yes](https://img.youtube.com/vi/_g-sQW4x-8o/0.jpg)](https://www.youtube.com/watch?v=_g-sQW4x-8o)
 
