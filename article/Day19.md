@@ -6,7 +6,12 @@ GA: G-CH7FZ71WRC
 
 # Day 19 : HackMD 內建嵌入筆記指令
 
+[![hackmd-github-sync-badge](https://hackmd.io/18sNgzrnSqKbT5AiwCmKnA/badge)](https://hackmd.io/18sNgzrnSqKbT5AiwCmKnA)
+
 [![Yes](https://img.youtube.com/vi/mt01yjpaM7M/0.jpg)](https://www.youtube.com/watch?v=mt01yjpaM7M)
+
+
+本篇主要介紹如何使用HackMD的`{}`嵌入功能，提供[今日簡報](https://hackmd.io/@wiimax/intro-hackmd-19)，以及至今已公開的[所有簡報](https://hackmd.io/@wiimax/intro-hackmd-slides)，供您一次瀏覽，另外本篇請配合服用[DEMO連結](https://hackmd.io/8I6h0XrKTUyZC0YAtOnleA)，實際體驗與比較`{}`、`<iframe>` 二者差異!
 
 
 ## 輸入`{}`會出現嵌入選項
