@@ -4,45 +4,30 @@ image: https://hackmd.io/_uploads/B1-u_uJZs.png
 GA: G-CH7FZ71WRC
 ---
 
-# Day 22 : HackMD 與 Google 文件共舞
+# Day 21 : HackMD 書本模式與外部連結
 
-[![hackmd-github-sync-badge](https://hackmd.io/4SUnEE1kTOiFYZ94yLRFkw/badge)](https://hackmd.io/4SUnEE1kTOiFYZ94yLRFkw)
+[![Yes](https://img.youtube.com/vi/ELIuPsCrn8s/0.jpg)](https://www.youtube.com/watch?v=ELIuPsCrn8s)
 
+- 大家好，當 HackMD 切換為書本模式時，文件的清單會轉成目錄般的存在，目錄的連結目的地成了內頁，我們也曾在[Day 07 : HackMD 的書本模式](https://ithelp.ithome.com.tw/articles/10294441)、[Day 09 : HackMD 書本+簡報共舞](https://ithelp.ithome.com.tw/articles/10295927)介紹過活用書本模式的方法，今日聚焦在「外部連結」作為書目的效果及注意事項。
+- 本篇建議讀者配合示範筆記[書本模式外部連結DEMO](https://hackmd.io/@wiimax/book-demo)閱讀，更能理解實際效果。
 
-
-[![Yes](https://img.youtube.com/vi/gJT9IZ7rdZ0/0.jpg)](https://www.youtube.com/watch?v=gJT9IZ7rdZ0)
-
-
-
-- 各位好，在介紹完書本模式運用外部連結形成書本的形式後，其實就很像是個完整的知識系統了，今天再透過Google雲端硬碟的分享文件編輯功能，可以達到低轉化成本的多種編輯、展示情境，學會此招您也是HackMD生產力達人了。
-- 本篇請配合範例文件 [Day 22 : 與Google文件共舞範例](https://hackmd.io/@wiimax/Book-demo-with-google) 與影片服用，效果更好。
-
-
-## Google 雲端文件生態系
-- Google 對雲端作業著墨許多，包含 Google 文件、試算表、簡報、問卷等，對應著微軟的Word、Excel、Power Point等。
-- Google 的雲端作業有個特徵，就是可以設定分享權限、編輯權限。
-- 近期重要的進展，就是置於 Google雲端硬碟的微軟 Word、Excel、Power Point等檔案，可以在雲端透過瀏覽器直接編輯，編輯後存檔也會同步修改微軟檔案，運用此特性可以讓 HackMD 的書本模式情境成為生產力中心，達到知識管理、專案管理等運用，而且幾乎0轉換成本。 
-
-## HackMD 的各種結合 Google雲端編輯做法
--  招式一，就是一個超連結，透過超連結連到分享的文件。
--  招式二，嵌入`<iframe>`，即可在HackMD的文章與簡報中展現文件或共同編輯，也可以嵌入Google 表單供填寫。
--  招式三，以書本目錄連結開啟存在雲端硬碟的 Office 檔案，效果請點選本日文章開頭介紹的 [Day 22 : 與Google文件共舞範例](https://hackmd.io/@wiimax/Book-demo-with-google)連結檢視。
-
-## PPT、EXCEL、WORD 皆可實現雲端編輯
--  Word 以 Google 文件線上編輯。
-    ![](https://hackmd.io/_uploads/HyGkcVQGj.png)
-
-- Power Point 以 Google 文件線上編輯。
-    ![](https://hackmd.io/_uploads/HJnNqNXzo.png)
-
-- PDF 存Google雲端硬碟，原本連結無法檢視，但將檔案連結末尾從`/view`改為`/preview`即可實現。
-    ![](https://hackmd.io/_uploads/S1vuqVQzi.png)
-
-- MP4 存Google雲端硬碟，原本也無法檢視，但將檔案連結末尾從`/view`改為`/preview` 即可實現。
-- 但請注意手機閱覽時會無法正常顯示。
-    ![](https://hackmd.io/_uploads/HJ2DiE7Gi.png)
+ 
+## HackMD 的書本模式
+- 具有超連結的清單會變成目錄，連結目的地變成內頁。
+- 清單可以是 HackMD 編輯模式的超連結，也可以是閱覽模式、書本模式、簡報模式的分享連結。
+- 可以是外部連結!
+    ![](https://hackmd.io/_uploads/By2AO6zfo.png)
 
 
-在教學與專案情境中，能在一個書目分頁完成各項整體規劃，感受就像是一個完整的知識體系，而無縫結合至各種文件編輯、簡報展示不需要重複製作檔案，相當強大，這麼強大的功能也還是免費 HackMD 就可以做到，歡迎實際體驗看看。
 
-> 也分享[今日簡報](https://hackmd.io/@wiimax/intro-hackmd-2)，以及至今已公開的[所有簡報](https://hackmd.io/@wiimax/intro-hackmd-slides)，供您一次瀏覽!
+## 外部連結注意事項
+- 可能會拒絕連線，跟`<iframe>`情況一致，不允許嵌入的網頁也不允許作為書本模式的內頁。
+- 可能手機瀏覽有問題，譬如嵌入[FontAwesome V4](https://fontawesome.com/v4/icons)，HackMD無法正常捲動嵌入的頁面。
+- 上述2種情況可以做為"另開視窗"解決，在超連結後方加上`[tatget=_blank]`即可。
+
+
+
+
+
+> 提供[今日簡報](https://hackmd.io/@wiimax/intro-hackmd-21)
+> ，以及至今已公開的[所有簡報](https://hackmd.io/@wiimax/intro-hackmd-slides)，供您一次瀏覽!
