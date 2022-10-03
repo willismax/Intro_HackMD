@@ -6,6 +6,9 @@ GA: G-CH7FZ71WRC
 
 # Day 22 : HackMD 與 Google 文件共舞
 
+[![hackmd-github-sync-badge](https://hackmd.io/4SUnEE1kTOiFYZ94yLRFkw/badge)](https://hackmd.io/4SUnEE1kTOiFYZ94yLRFkw)
+
+
 
 [![Yes](https://img.youtube.com/vi/gJT9IZ7rdZ0/0.jpg)](https://www.youtube.com/watch?v=gJT9IZ7rdZ0)
 
