@@ -6,6 +6,7 @@ GA: G-CH7FZ71WRC
 
 # Day 22 : HackMD 與 Google 文件共舞
 
+[![hackmd-github-sync-badge](https://hackmd.io/4SUnEE1kTOiFYZ94yLRFkw/badge)](https://hackmd.io/4SUnEE1kTOiFYZ94yLRFkw)
 
 
 
@@ -44,4 +45,4 @@ GA: G-CH7FZ71WRC
 
 在教學與專案情境中，能在一個書目分頁完成各項整體規劃，感受就像是一個完整的知識體系，而無縫結合至各種文件編輯、簡報展示不需要重複製作檔案，相當強大，這麼強大的功能也還是免費 HackMD 就可以做到，歡迎實際體驗看看。
 
-> 也分享[今日簡報](https://hackmd.io/@wiimax/intro-hackmd-2)，以及至今已公開的[所有簡報](https://hackmd.io/@wiimax/intro-hackmd-slides)，供您一次瀏覽!
+> 也分享[今日簡報](https://hackmd.io/@wiimax/intro-hackmd-22)，以及至今已公開的[所有簡報](https://hackmd.io/@wiimax/intro-hackmd-slides)，供您一次瀏覽!
