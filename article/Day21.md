@@ -6,6 +6,9 @@ GA: G-CH7FZ71WRC
 
 # Day 21 : HackMD 書本模式與外部連結
 
+[![hackmd-github-sync-badge](https://hackmd.io/HOgGOPSwSDOrQNrR2yUL2w/badge)](https://hackmd.io/HOgGOPSwSDOrQNrR2yUL2w)
+
+
 [![Yes](https://img.youtube.com/vi/ELIuPsCrn8s/0.jpg)](https://www.youtube.com/watch?v=ELIuPsCrn8s)
 
 - 大家好，當 HackMD 切換為書本模式時，文件的清單會轉成目錄般的存在，目錄的連結目的地成了內頁，我們也曾在[Day 07 : HackMD 的書本模式](https://ithelp.ithome.com.tw/articles/10294441)、[Day 09 : HackMD 書本+簡報共舞](https://ithelp.ithome.com.tw/articles/10295927)介紹過活用書本模式的方法，今日聚焦在「外部連結」作為書目的效果及注意事項。
