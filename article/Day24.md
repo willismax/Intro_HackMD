@@ -6,6 +6,9 @@ GA: G-CH7FZ71WRC
 
 # Day 24 : HackMD 與 本機 VS Code 協作
 
+[![hackmd-github-sync-badge](https://hackmd.io/myo4tb7WQyiFqZRudvxLdg/badge)](https://hackmd.io/myo4tb7WQyiFqZRudvxLdg)
+
+
 [![Yes](https://img.youtube.com/vi/rWYo4lArW7I/0.jpg)](https://www.youtube.com/watch?v=rWYo4lArW7I)
 
 
