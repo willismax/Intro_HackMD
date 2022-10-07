@@ -6,6 +6,9 @@ GA: G-CH7FZ71WRC
 
 # Day 25 : HackMD 佐 Obsidian
 
+[![hackmd-github-sync-badge](https://hackmd.io/o8IFhq81TtCV_K86lYWLcQ/badge)](https://hackmd.io/o8IFhq81TtCV_K86lYWLcQ)
+
+
 [![Yes](https://img.youtube.com/vi/dJmXtgg6J1Q/0.jpg)](https://www.youtube.com/watch?v=dJmXtgg6J1Q)
 
 
