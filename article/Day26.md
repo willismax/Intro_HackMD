@@ -6,6 +6,9 @@ GA: G-CH7FZ71WRC
 
 # Day 26 : HackMD API 來用 Python 串接吧
 
+[![hackmd-github-sync-badge](https://hackmd.io/qRCTaNxJTxawRv3rkQFaTA/badge)](https://hackmd.io/qRCTaNxJTxawRv3rkQFaTA)
+
+
 
 [![Yes](https://img.youtube.com/vi/s0ype_Q5mvs/0.jpg)](https://www.youtube.com/watch?v=s0ype_Q5mvs)
 
