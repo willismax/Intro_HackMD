@@ -104,6 +104,6 @@ GA: G-CH7FZ71WRC
     ![](https://hackmd.io/_uploads/rkRJjDEJi.png)
     ![](https://hackmd.io/_uploads/r1DQowNks.png)
 
-以上也貢獻在官方API use case - [用API批次修改文章權限(PyHackMD)](/i7dUe9PeRA2o8R9ngrAnaw)，另因為迴圈查找的關係，注意您的 API 請求數量有每月2000 個請求、每 5 分鐘 100 個請求限制。
+以上也貢獻在官方API use case - [用API批次修改文章權限(PyHackMD)](/i7dUe9PeRA2o8R9ngrAnaw)，另因為迴圈查找的關係，注意您的 API 請求數量有每月2000 個請求、每 5 分鐘 100 個請求限制，再次強調目前免費皆可使用，佛心到我以為付費才有。
 
 > 分享[今日簡報](https://hackmd.io/@wiimax/intro-hackmd-26)，以及至今已公開的[所有簡報](https://hackmd.io/@wiimax/intro-hackmd-slides)，供您一次瀏覽!
