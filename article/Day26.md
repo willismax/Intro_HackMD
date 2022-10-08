@@ -16,7 +16,10 @@ GA: G-CH7FZ71WRC
 
 
 ## [HackMD API](https://hackmd.io/@docs/HackMD_API_Book)
-- 目前僅付費者可用，需在設定建立API Token。
+- ~~目前僅付費者可用~~，目前免費版也可用，需在設定建立API Token，如何取得請見[官方說明](https://hackmd.io/c/tutorials-tw/https%3A%2F%2Fhackmd.io%2F%40docs%2Fissue-revoke-api-token-zh)。
+  ![](https://hackmd.io/_uploads/ryhb0GkXs.png)
+- 建立好 API Token 務必妥善保存，重來只能再申請。
+  ![](https://hackmd.io/_uploads/rJO0RGkmi.png)- 目前僅付費者可用，需在設定建立API Token。
 - API每月有 2000 個呼叫的配額，速率限製為每 5 分鐘 100 個呼叫。
 - 官方的[HackMD API BOOK](https://hackmd.io/@docs/HackMD_API_Book)持續徵求案例，有興趣可以解決Use Case或貢獻，像我也貢獻[用API批次修改文章權限(PyHackMD)](https://hackmd.io/@wiimax/ByK86oNJs)。
     - [HackMD User API](https://hackmd.io/@hackmd-api/user-api)
