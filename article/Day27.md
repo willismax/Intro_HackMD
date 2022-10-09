@@ -6,6 +6,9 @@ GA: G-CH7FZ71WRC
 
 # Day 27 : HackMD API 打造 LINE-BOT 賴爸特助 on Fly
 
+[![hackmd-github-sync-badge](https://hackmd.io/r47voaIJS4iJ2VlZ_lXKdQ/badge)](https://hackmd.io/r47voaIJS4iJ2VlZ_lXKdQ)
+
+
 [![Yes](https://img.youtube.com/vi/IXEn4PCr5P4/0.jpg)](https://www.youtube.com/watch?v=IXEn4PCr5P4)
 
 
