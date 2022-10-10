@@ -6,6 +6,9 @@ GA: G-CH7FZ71WRC
 
 # Day 28 : HackMD 客製佈景主題整理
 
+[![hackmd-github-sync-badge](https://hackmd.io/B6GEvZGCRSGRZoCKnXFUUg/badge)](https://hackmd.io/B6GEvZGCRSGRZoCKnXFUUg)
+
+
 
 [![Yes](https://img.youtube.com/vi/secZ4yhZmiQ/0.jpg)](https://www.youtube.com/watch?v=secZ4yhZmiQ)
 
