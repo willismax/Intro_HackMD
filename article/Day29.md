@@ -6,6 +6,9 @@ GA: G-CH7FZ71WRC
 
 # Day 29 : HackMD 自製範本
 
+[![hackmd-github-sync-badge](https://hackmd.io/qx_h2LJZQBGBgUsQ2LFVnw/badge)](https://hackmd.io/qx_h2LJZQBGBgUsQ2LFVnw)
+
+
 [![Yes](https://img.youtube.com/vi/Tf9CMblP3vw/0.jpg)](https://www.youtube.com/watch?v=Tf9CMblP3vw)
 
 
