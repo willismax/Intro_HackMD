@@ -34,11 +34,11 @@ GA: G-CH7FZ71WRC
 - 標示`@TODO`為開頭的文字，將寫入一個連續的的代辦清單。
   ![](https://hackmd.io/_uploads/HJHbEDAfo.png)
 
-- 無上述標示的文字，將寫入一個連續附加的在暫存筆記。也就是從別的文章分享的超連結都直接灌到此暫存筆記。
+- 無上述標示的文字，將寫入一個連續附加的在暫存筆記。也就是從別的文章分享的超連結都直接灌到此暫存筆記。[2022/10/11更新]現在也可以貼入圖片了!
   ![](https://hackmd.io/_uploads/HJbQNvRzi.png)
+  ![](https://hackmd.io/_uploads/ByASGdMQj.png)
 
 - 如果要整理筆記，用電腦編輯整理即可。
-
 
 
 ## 如何建立 LINE bot 
