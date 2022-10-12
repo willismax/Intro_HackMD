@@ -6,6 +6,9 @@ GA: G-CH7FZ71WRC
 
 # Day 30 : 小題大作的 HackMD 技巧系列小結
 
+[![hackmd-github-sync-badge](https://hackmd.io/4fZSMUb-R6S8YysC0WV6GA/badge)](https://hackmd.io/4fZSMUb-R6S8YysC0WV6GA)
+
+
 [![Yes](https://img.youtube.com/vi/I--1mahI5VM/0.jpg)](https://www.youtube.com/watch?v=I--1mahI5VM)
 
 
